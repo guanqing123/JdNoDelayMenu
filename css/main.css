@@ -1,0 +1,50 @@
+.wrap {
+	position: relative;
+	width: 200px;
+	left: 50px;
+	top: 50px;
+}
+
+ul {
+	padding: 15px 0;
+	margin: 9;
+	list-style: none;
+	background: #6c6669;
+	color: #ffffff;
+	border-right-width: 0;
+}
+
+li {
+	display: block;
+	height: 30px;
+	line-height: 30px;
+	padding-left: 12px;
+	cursor: pointer;
+	font-size: 14px;
+	position: relative;
+}
+
+li.active {
+	background: #999395;
+}
+
+li span:hover {
+	color: #c81623;
+}
+
+.none {
+	display: none;
+}
+
+#sub {
+	width: 600px;
+	position: absolute;
+	border: 1px solid #f7f7f7;
+	background: #F7F7F7;
+	box-shadow: 2px 0 5px rgba(0,0,0,.3);
+	left: 200px;
+	top: 0;
+	padding: 10px;
+}
+
+
