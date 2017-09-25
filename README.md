@@ -34,6 +34,7 @@
 <span id="compare">
 如何比较
 </span>
+
 - 向量: Vab = Pb - Pa
 - 二维向量叉乘公式:
 	- a(x1,y1) * b(x2,y2) = x1*y2 - x2*y1
