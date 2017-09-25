@@ -3,6 +3,7 @@
 ## Preview
 
 ![preview](https://github.com/guanqing123/JdNoDelayMenu/blob/master/img/preview.gif)
+---
 
 ### 预备知识
 + HTML
