@@ -1,6 +1,7 @@
 # 京东无延迟菜单
 
 ## Preview
+
 ![preview](https://github.com/guanqing123/JdNoDelayMenu/blob/a0f0afc7754ef45b485b7baaa47897bb3f2f0d98/img/preview.gif)
 
 ### 预备知识
